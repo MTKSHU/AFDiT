@@ -1,0 +1,17 @@
+--extra-index-url https://download.pytorch.org/whl/cu124
+
+torch==2.6.0+cu124
+torchvision==0.21.0+cu124
+torchaudio==2.6.0+cu124
+
+accelerate==1.5.2
+diffusers==0.32.2
+einops==0.8.1
+huggingface-hub==0.29.3
+matplotlib==3.10.1
+numpy==2.1.2
+onnxruntime==1.21.0
+opencv-python
+scikit-image==0.25.2
+tensorboard==2.19.0
+transformers==4.49.0
