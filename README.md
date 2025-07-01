@@ -42,3 +42,7 @@ Our work is now available [online](https://link.springer.com/article/10.1007/s00
   url       = {https://doi.org/10.1007/s00371-025-04075-5},
 }
 ```
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=MTKSHU/AFDiT&type=Date)](https://www.star-history.com/#MTKSHU/AFDiT&Date)
